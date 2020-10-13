@@ -1,0 +1,28 @@
+/* ----------------------------------------------------------------
+	Custom CSS
+
+	Add all your Custom Styled CSS here for New Styles or
+	Overwriting Default Theme Styles for Better Handling Updates
+-----------------------------------------------------------------*/
+
+
+.bbk_backgrond {
+    background: darkred;
+
+}
+
+.head {
+    font-size: 50px;
+    color: white;
+}
+
+.zagolovok {
+    font-size: 50px;
+    color: #002752;
+    text-align: center;
+}
+
+.breadcrumb {
+    font-size: 15px;
+    text-align: end;
+}
